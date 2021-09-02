@@ -1,2 +1,2 @@
 build:
-	docker build -t ansible-docker-image:latest .
+	docker build -t hukuruio/ansible-base:local .
