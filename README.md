@@ -1,2 +1,2 @@
-# ansible-docker-image-
+# ansible-docker-image
 Docker image with ansible
